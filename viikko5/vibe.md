@@ -59,7 +59,6 @@ def create_warehouse(self, name, varasto):
     }
 ````
 
-
 ## Opitko jotain uutta Copilotin tekemää koodia lukiessasi
 
 Copilotin koodi oli toimivaa, mutta sitä oli melko raskasta lukea, koska funktiot tekivät monia asioita. Lisäksi koodi oli heikosti testattavaa eikä copilot osannut yhdistää suomenkielistä koodia englanninkieliseen koodiin ellei sille speksannut vastaavuuksia. Sillä oli myös haasteita ulkoasun tyylien suunnittelussa, kapseloinnissa ja dependency injectionin toteuttamisessa. 
